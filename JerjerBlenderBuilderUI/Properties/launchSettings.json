@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "JerjerBlenderBuilderUI (Package)": {
+      "commandName": "MsixPackage"
+    },
+    "JerjerBlenderBuilderUI (Unpackaged)": {
+      "commandName": "Project"
+    }
+  }
+}
